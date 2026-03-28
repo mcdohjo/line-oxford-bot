@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 [
   {"word": "government", "th": "รัฐบาล"},
   {"word": "support", "th": "สนับสนุน"},
   {"word": "people", "th": "ประชาชน"},
   {"word": "news", "th": "ข่าว"},
   {"word": "country", "th": "ประเทศ"}
+=======
+[
+  {"word": "government", "th": "รัฐบาล"},
+  {"word": "support", "th": "สนับสนุน"},
+  {"word": "people", "th": "ประชาชน"},
+  {"word": "news", "th": "ข่าว"},
+  {"word": "country", "th": "ประเทศ"}
+>>>>>>> 79b63208a7bd31dc0a992e513132a4f5e26930b6
 ]
